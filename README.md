@@ -1,2 +1,3 @@
-# portfolio
-This repository contains code of my portfolio.
+# Portfolio
+Responsive Portfolio website using Html, Css and JavaScript.
+
